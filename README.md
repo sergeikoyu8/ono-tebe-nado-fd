@@ -1,1 +1,0 @@
-https://github.com/sergeikoyu8/ono-tebe-nado-fd
