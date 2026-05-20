@@ -1,1 +1,1 @@
-https://github.com/sergeikoyu8/ono-tebe-nado-fd
+https://github.com/sergeikoyu8/ono-tebe-nado-fd.git
